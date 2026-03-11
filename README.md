@@ -11,3 +11,17 @@ Al realizar el análisis de correlación entre variables, será posible identifi
 
 Con ello, construirás una base sólida para el desarrollo de modelos de machine learning orientados a la predicción de churn, ayudando a la empresa a anticipar el riesgo de pérdida de clientes y tomar decisiones estratégicas para reducir ese impacto.
 
+
+Objetivos 
+
+Preparar los datos para el modelado (tratamiento, codificación, normalización).
+
+Realizar análisis de correlación y selección de variables.
+
+Entrenar dos o más modelos de clasificación.
+
+Evaluar el rendimiento de los modelos con métricas.
+
+Interpretar los resultados, incluyendo la importancia de las variables.
+
+Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
